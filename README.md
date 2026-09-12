@@ -1,1 +1,1 @@
-# Stock_price
+# Stock_Price_Prediction Project
